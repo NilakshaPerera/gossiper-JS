@@ -1,1 +1,2 @@
-# gossiper-JS
+# Gossiper JS
+
